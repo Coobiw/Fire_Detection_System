@@ -1,0 +1,2 @@
+# Fire_Detection_System
+It is a system used to detect the fire object based on cascade-classifier,Yolov1 Network Architecture and their combination.By the way,In order to improve the accuracy,we also use FCN Network.Actually,it is better for you to use Yolov3,v4,v5 to solve this problem.We just want to introduce an idea to enhance the accurary on small object,such as detecting on the segmentation results.
