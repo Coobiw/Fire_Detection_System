@@ -1,0 +1,10 @@
+BATCH_SIZE = 2
+EPOCH_NUMBER = 150
+TRAIN_ROOT = './dataset/train'
+TRAIN_LABEL = './dataset/train_labels'
+VAL_ROOT = './CamVid/val'
+VAL_LABEL = './CamVid/val_labels'
+TEST_ROOT = './dataset/test'
+TEST_LABEL = './dataset/test_labels'
+class_dict_path = './dataset/class_dict_demo.csv'
+crop_size = (480,640)
